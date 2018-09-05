@@ -55,6 +55,7 @@
 ![sm-folder](./img/smworkshop.png)
 
 ##开始练习
+
 进入SMWorkshop文件夹，打开MNIST-KMEANS.ipynb或MNIST-MXNET.ipynb文件，按照notebook中的步骤进行练习。
 
 
