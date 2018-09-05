@@ -41,9 +41,14 @@
 点击新建->Terminal，在notebook上新建一个终端
 ![new-terminal](./img/new-terminal.png)
 
+通过cd命令进入SageMaker目录：
+
+	cd SageMaker
+
 使用Git工具将练习代码下载到notebook实例上，下载命令为
 
-git clone https://github.com/DamonDeng/SMWorkshop
+	git clone https://github.com/DamonDeng/SMWorkshop
+
 ![git-clone](./img/git-clone.png)
 
 代码下载完成后，可以在notebook实例中看到一个SMWorkshop的文件夹如下：
