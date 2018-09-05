@@ -38,11 +38,18 @@
 
 
 ## 下载样例代码
+点击新建->Terminal，在notebook上新建一个终端
+![new-terminal](./img/new-terminal.png)
 
+使用Git工具将练习代码下载到notebook实例上，下载命令为
 
+git clone https://github.com/DamonDeng/SMWorkshop
+![git-clone](./img/git-clone.png)
 
+代码下载完成后，可以在notebook实例中看到一个SMWorkshop的文件夹如下：
+![sm-folder](./img/smworkshop.png)
 
 ##开始练习
-打开MNIST-KMEANS.ipynb或MNIST-MXNET.ipynb文件，按照notebook中的步骤进行练习
+进入SMWorkshop文件夹，打开MNIST-KMEANS.ipynb或MNIST-MXNET.ipynb文件，按照notebook中的步骤进行练习。
 
 
